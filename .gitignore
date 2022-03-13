@@ -1,0 +1,10 @@
+.env
+node_modules/
+artifacts/
+cache/
+images/*
+metadata/*
+!*/.gitkeep
+!metadata/1.example
+*.car
+package-lock.json
